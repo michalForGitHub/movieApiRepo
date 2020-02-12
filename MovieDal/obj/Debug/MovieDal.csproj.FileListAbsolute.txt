@@ -1,0 +1,9 @@
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\bin\Debug\MovieDal.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\bin\Debug\MovieDal.pdb
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\obj\Debug\MovieDal.csproj.CoreCompileInputs.cache
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\obj\Debug\MovieDal.csproj.CopyComplete
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\obj\Debug\MovieDal.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\obj\Debug\MovieDal.pdb
+C:\Users\michal_tra\Desktop\MovieApp\MovieDal\obj\Debug\MovieDal.csprojAssemblyReference.cache

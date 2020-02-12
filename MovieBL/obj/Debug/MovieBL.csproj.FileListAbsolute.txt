@@ -1,0 +1,11 @@
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\bin\Debug\MovieBL.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\bin\Debug\MovieBL.pdb
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\bin\Debug\MovieDal.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\bin\Debug\MovieDal.pdb
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\obj\Debug\MovieBL.csprojAssemblyReference.cache
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\obj\Debug\MovieBL.csproj.CoreCompileInputs.cache
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\obj\Debug\MovieBL.csproj.CopyComplete
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\obj\Debug\MovieBL.dll
+C:\Users\michal_tra\Desktop\MovieApp\MovieBL\obj\Debug\MovieBL.pdb
